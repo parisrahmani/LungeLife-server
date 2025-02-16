@@ -11,6 +11,9 @@ const { PORT, CORS_ORIGIN } = process.env;
 app.use(express.json());
 app.use(cors({ CORS_ORIGIN }));
 
+// ✅ Serve static images from the "public/images" folder
+app.use("/images", express.static("public/images"));
+
 // Other routes
 app.get("/", (req, res) => {
   res.send("Express is running...");
