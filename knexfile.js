@@ -12,4 +12,10 @@ export default {
     database: process.env.DB_NAME,
     charset: "utf8mb4",
   },
+  migrations: {
+    directory: "./migrations",
+  },
+  seeds: {
+    directory: "./seeds",
+  },
 };
