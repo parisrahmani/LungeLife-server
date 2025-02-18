@@ -22,8 +22,10 @@ export async function addWorkoutTemplate(req, res) {
       return res.status(400).json({ message: "Missing required fields" });
     }
 
+    const exercisesString = JSON.stringify(exercises);
+
     const [newTemplate] = await knex("workout_templates").insert(
-      { user_id, template_name, date, exercises, notes },
+      { user_id, template_name, date, exercises: exercisesString, notes },
       ["*"]
     );
 
