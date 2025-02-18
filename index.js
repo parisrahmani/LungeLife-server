@@ -5,6 +5,7 @@ import "dotenv/config";
 import userRoutes from "./routes/userRoutes.js";
 import progressRoutes from "./routes/progressRoutes.js";
 import exerciseRoutes from "./routes/exerciseRoutes.js";
+import workoutRoutes from "./routes/workoutRoutes.js";
 
 // import knex from "knex"; // Your database connection
 
@@ -15,10 +16,12 @@ const { PORT, CORS_ORIGIN } = process.env;
 app.use(express.json());
 app.use(cors({ origin: CORS_ORIGIN }));
 
-// Routes
+// General Route
 app.get("/", (req, res) => {
-  res.send("Express is running...");
+  res.send("Welcome to the Workout API!");
 });
+
+app.use("/api/sessions", workoutRoutes);
 app.use("/api/users", userRoutes);
 app.use("/api/progress", progressRoutes);
 app.use("/api/exercises", exerciseRoutes);
