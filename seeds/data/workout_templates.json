@@ -1,0 +1,72 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "user_id": "user-01",
+    "template_name": "Full Body Strength",
+    "exercises": [
+      "Arnold_Dumbbell_Press",
+      "Barbell_Shoulder_Press",
+      "Bent_Over_Barbell_Row",
+      "Dead_Bug",
+      "Push-Ups_-_Close_Triceps_Position",
+      "Romanian_Deadlift"
+    ],
+    "notes": "Focus on proper form"
+  },
+  {
+    "id": "660e8400-e29b-41d4-a716-446655440001",
+    "user_id": "user-01",
+    "template_name": "Cardio & Core",
+    "exercises": [
+      "Elliptical_Trainer",
+      "Mountain_Climbers",
+      "Running_Treadmill",
+      "Cable_Crunch",
+      "Plank",
+      "Box_Jump_Multiple_Response"
+    ],
+    "notes": "Increase intensity gradually"
+  },
+  {
+    "id": "770e8400-e29b-41d4-a716-446655440002",
+    "user_id": "user-01",
+    "template_name": "Leg Day",
+    "exercises": [
+      "Front_Barbell_Squat",
+      "Goblet_Squat",
+      "Hack_Squat",
+      "Dumbbell_Lunges",
+      "Sumo_Deadlift",
+      "Stiff-Legged_Barbell_Deadlift"
+    ],
+    "notes": "Focus on depth in squats"
+  },
+  {
+    "id": "880e8400-e29b-41d4-a716-446655440003",
+    "user_id": "user-01",
+    "template_name": "Upper Body Strength",
+    "exercises": [
+      "Dumbbell_Bench_Press",
+      "Bench_Dips",
+      "Bent_Over_Two-Dumbbell_Row",
+      "Wide-Grip_Lat_Pulldown",
+      "Standing_Military_Press",
+      "Reverse_Grip_Triceps_Pushdown"
+    ],
+    "notes": "Increase weight for bench press"
+  },
+  {
+    "id": "990e8400-e29b-41d4-a716-446655440004",
+    "user_id": "user-01",
+    "template_name": "Mobility & Recovery",
+    "exercises": [
+      "Hip_Extension_with_Bands",
+      "Butt_Lift_Bridge",
+      "Lying_Face_Up_Plate_Neck_Resistance",
+      "Walking_Treadmill",
+      "One-Arm_Side_Deadlift",
+      "Split_Squat_with_Dumbbells"
+    ],
+    "notes": "Hold each stretch for at least 30 seconds"
+  }
+]
