@@ -9,9 +9,10 @@ export function up(knex) {
     table.uuid("user_id").notNullable();
     table.string("exercise_id").notNullable();
     table.date("date").notNullable();
-    table.string("weight").nullable();
+    table.float("weight").nullable();
     table.integer("reps").notNullable();
     table.integer("sets").notNullable();
+    table.float("duration").nullable();
     table.string("prs").nullable(); // Personal Records
 
     // Foreign keys

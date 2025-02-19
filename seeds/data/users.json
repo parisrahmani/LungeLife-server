@@ -1,0 +1,9 @@
+[
+  {
+    "id": "user-01",
+    "name": "Parisa",
+    "email": "parisa.rahmani68@gmail.com",
+    "password": "Parisa1234!",
+    "preferences": ["strength exercises"]
+  }
+]

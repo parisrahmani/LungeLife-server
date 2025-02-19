@@ -5,7 +5,8 @@ const knex = initKnex(configuration);
 
 export const createProgress = async (req, res) => {
   try {
-    const { user_id, exercise_id, date, weight, reps, sets, prs } = req.body;
+    const { user_id, exercise_id, date, weight, reps, sets, duration, prs } =
+      req.body;
     const [progress] = await knex("progress").insert(
       {
         id: knex.raw("UUID()"),
@@ -15,6 +16,7 @@ export const createProgress = async (req, res) => {
         weight,
         reps,
         sets,
+        duration,
         prs,
       },
       ["id", "user_id", "exercise_id", "date"]
