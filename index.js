@@ -21,7 +21,7 @@ app.get("/", (req, res) => {
   res.send("Welcome to the Workout API!");
 });
 
-app.use("/api/sessions", workoutRoutes);
+app.use("/api/templates", workoutRoutes);
 app.use("/api/users", userRoutes);
 app.use("/api/progress", progressRoutes);
 app.use("/api/exercises", exerciseRoutes);

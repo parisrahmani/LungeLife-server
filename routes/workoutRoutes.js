@@ -7,6 +7,6 @@ import {
 const router = express.Router();
 
 router.get("/", getWorkoutTemplates);
-router.post("/", addWorkoutTemplate);
+router.post("/add", addWorkoutTemplate);
 
 export default router;
