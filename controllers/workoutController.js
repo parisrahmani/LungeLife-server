@@ -34,3 +34,24 @@ export async function addWorkoutTemplate(req, res) {
     res.status(500).json({ message: "Error adding workout template", error });
   }
 }
+
+export async function getWorkoutExercises(req, res) {
+  try {
+    const { id } = req.params;
+    console.log("Received ID:", id);
+
+    if (!id) {
+      return res.status(400).json({ message: "Template ID is required" });
+    }
+
+    const template = await knex("workout_templates").where({ id: id }).first();
+    console.log(template.exercises);
+    const exercises = await knex("exercises").whereIn("id", template.exercises);
+
+    res.json(exercises);
+  } catch (error) {
+    res
+      .status(500)
+      .json({ message: "Error fetching workout exercises", error });
+  }
+}
