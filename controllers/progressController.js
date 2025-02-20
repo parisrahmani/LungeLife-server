@@ -70,7 +70,6 @@ export async function addProgress(req, res) {
         date,
         weight: exercise.weight,
         reps: exercise.reps,
-        sets: exercise.sets,
         duration: exercise.duration,
         prs: exercise.prs,
       }));
