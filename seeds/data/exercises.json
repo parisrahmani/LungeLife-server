@@ -15,8 +15,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Arnold_Dumbbell_Press/0.gif"],
-    "id": "Arnold_Dumbbell_Press"
+    "images": ["/images/exercises/Arnold Dumbbell Press/0.gif"],
+    "id": "Arnold Dumbbell Press"
   },
   {
     "name": "Band Assisted Pull-Up",
@@ -33,8 +33,8 @@
       "After a brief pause, return to the starting position."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Band_Assisted_Pull-Up/0.gif"],
-    "id": "Band_Assisted_Pull-Up"
+    "images": ["/images/exercises/Band Assisted Pull-Up/0.gif"],
+    "id": "Band Assisted Pull-Up"
   },
   {
     "name": "Band Hip Adductions",
@@ -53,8 +53,8 @@
       "Switch sides."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Band_Hip_Adductions/0.gif"],
-    "id": "Band_Hip_Adductions"
+    "images": ["/images/exercises/Band Hip Adductions/0.gif"],
+    "id": "Band Hip Adductions"
   },
   {
     "name": "Barbell Bench Press - Medium Grip",
@@ -72,8 +72,8 @@
       "When you are done, place the bar back in the rack."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Barbell_Bench_Press_-_Medium_Grip/0.gif"],
-    "id": "Barbell_Bench_Press_-_Medium_Grip"
+    "images": ["/images/exercises/Barbell Bench Press - Medium Grip/0.gif"],
+    "id": "Barbell Bench Press - Medium Grip"
   },
   {
     "name": "Barbell Incline Bench Press - Medium Grip",
@@ -92,9 +92,9 @@
     ],
     "category": "strength",
     "images": [
-      "/images/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.gif"
+      "/images/exercises/Barbell Incline Bench Press - Medium Grip/0.gif"
     ],
-    "id": "Barbell_Incline_Bench_Press_-_Medium_Grip"
+    "id": "Barbell Incline Bench Press - Medium Grip"
   },
   {
     "name": "Barbell Shoulder Press",
@@ -112,8 +112,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Barbell_Shoulder_Press/0.gif"],
-    "id": "Barbell_Shoulder_Press"
+    "images": ["/images/exercises/Barbell Shoulder Press/0.gif"],
+    "id": "Barbell Shoulder Press"
   },
   {
     "name": "Bench Dips",
@@ -130,8 +130,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Bench_Dips/0.gif"],
-    "id": "Bench_Dips"
+    "images": ["/images/exercises/Bench Dips/0.gif"],
+    "id": "Bench Dips"
   },
   {
     "name": "Bent Over Barbell Row",
@@ -148,8 +148,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Bent_Over_Barbell_Row/0.gif"],
-    "id": "Bent_Over_Barbell_Row"
+    "images": ["/images/exercises/Bent Over Barbell Row/0.gif"],
+    "id": "Bent Over Barbell Row"
   },
   {
     "name": "Bent Over Two-Dumbbell Row",
@@ -166,8 +166,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Bent_Over_Two-Dumbbell_Row/0.gif"],
-    "id": "Bent_Over_Two-Dumbbell_Row"
+    "images": ["/images/exercises/Bent Over Two-Dumbbell Row/0.gif"],
+    "id": "Bent Over Two-Dumbbell Row"
   },
   {
     "name": "Bent-Arm Dumbbell Pullover",
@@ -186,8 +186,8 @@
       "Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Bent-Arm_Dumbbell_Pullover/0.gif"],
-    "id": "Bent-Arm_Dumbbell_Pullover"
+    "images": ["/images/exercises/Bent-Arm Dumbbell Pullover/0.gif"],
+    "id": "Bent-Arm Dumbbell Pullover"
   },
   {
     "name": "Bodyweight Walking Lunge",
@@ -204,8 +204,8 @@
       "Step forward with your rear foot, repeating the lunge on the opposite leg."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Bodyweight_Walking_Lunge/0.gif"],
-    "id": "Bodyweight_Walking_Lunge"
+    "images": ["/images/exercises/Bodyweight Walking Lunge/0.gif"],
+    "id": "Bodyweight Walking Lunge"
   },
   {
     "name": "Box Jump (Multiple Response)",
@@ -227,11 +227,11 @@
       "Immediately drop or jump back down to the original starting place; then repeat the sequence."
     ],
     "category": "plyometrics",
-    "images": ["/images/exercises/Box_Jump_Multiple_Response/0.gif"],
-    "id": "Box_Jump_Multiple_Response"
+    "images": ["/images/exercises/Box Jump (Multiple Response)/0.gif"],
+    "id": "Box Jump (Multiple Response)"
   },
   {
-    "name": "Butt Lift (Bridge)",
+    "name": "Bridge",
     "force": "push",
     "level": "beginner",
     "mechanic": "isolation",
@@ -244,8 +244,8 @@
       "Slowly go back to the starting position as you breathe in."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Butt_Lift_Bridge/0.gif"],
-    "id": "Butt_Lift_Bridge"
+    "images": ["/images/exercises/Bridge/0.gif"],
+    "id": "Bridge"
   },
   {
     "name": "Cable Crossover",
@@ -263,8 +263,8 @@
       "Hold for a second at the starting position and repeat the movement for the prescribed amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Cable_Crossover/0.gif"],
-    "id": "Cable_Crossover"
+    "images": ["/images/exercises/Cable Crossover/0.gif"],
+    "id": "Cable Crossover"
   },
   {
     "name": "Cable Crunch",
@@ -283,8 +283,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Cable_Crunch/0.gif"],
-    "id": "Cable_Crunch"
+    "images": ["/images/exercises/Cable Crunch/0.gif"],
+    "id": "Cable Crunch"
   },
   {
     "name": "Cable Seated Crunch",
@@ -302,8 +302,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Cable_Seated_Crunch/0.gif"],
-    "id": "Cable_Seated_Crunch"
+    "images": ["/images/exercises/Cable Seated Crunch/0.gif"],
+    "id": "Cable Seated Crunch"
   },
   {
     "name": "Chin-Up",
@@ -341,8 +341,8 @@
       "6. Repeat this motion for the prescribed amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Close-Grip_Front_Lat_Pulldown/0.gif"],
-    "id": "Close-Grip_Front_Lat_Pulldown"
+    "images": ["/images/exercises/Close-Grip Front Lat Pulldown/0.gif"],
+    "id": "Close-Grip Front Lat Pulldown"
   },
   {
     "name": "Dead Bug",
@@ -362,8 +362,8 @@
       "Repeat on the opposite side, alternating until the set is complete."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Dead_Bug/0.gif"],
-    "id": "Dead_Bug"
+    "images": ["/images/exercises/Dead Bug/0.gif"],
+    "id": "Dead Bug"
   },
   {
     "name": "Decline Push-Up",
@@ -380,8 +380,8 @@
       "After a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Decline_Push-Up/0.gif"],
-    "id": "Decline_Push-Up"
+    "images": ["/images/exercises/Decline Push-Up/0.gif"],
+    "id": "Decline Push-Up"
   },
   {
     "name": "Deficit Deadlift",
@@ -404,8 +404,8 @@
       "Lower the bar by bending at the hips and guiding it to the floor."
     ],
     "category": "powerlifting",
-    "images": ["/images/exercises/Deficit_Deadlift/0.gif"],
-    "id": "Deficit_Deadlift"
+    "images": ["/images/exercises/Deficit Deadlift/0.gif"],
+    "id": "Deficit Deadlift"
   },
   {
     "name": "Dumbbell Bench Press",
@@ -423,8 +423,8 @@
       "Repeat the movement for the prescribed amount of repetitions of your training program."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Dumbbell_Bench_Press/0.gif"],
-    "id": "Dumbbell_Bench_Press"
+    "images": ["/images/exercises/Dumbbell Bench Press/0.gif"],
+    "id": "Dumbbell Bench Press"
   },
   {
     "name": "Dumbbell Bicep Curl",
@@ -441,8 +441,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Dumbbell_Bicep_Curl/0.gif"],
-    "id": "Dumbbell_Bicep_Curl"
+    "images": ["/images/exercises/Dumbbell Bicep Curl/0.gif"],
+    "id": "Dumbbell Bicep Curl"
   },
   {
     "name": "Dumbbell Lunges",
@@ -459,8 +459,8 @@
       "Repeat the movement for the recommended amount of repetitions and then perform with the left leg."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Dumbbell_Lunges/0.gif"],
-    "id": "Dumbbell_Lunges"
+    "images": ["/images/exercises/Dumbbell Lunges/0.gif"],
+    "id": "Dumbbell Lunges"
   },
   {
     "name": "Dumbbell Shoulder Press",
@@ -479,8 +479,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Dumbbell_Shoulder_Press/0.gif"],
-    "id": "Dumbbell_Shoulder_Press"
+    "images": ["/images/exercises/Dumbbell Shoulder Press/0.gif"],
+    "id": "Dumbbell Shoulder Press"
   },
   {
     "name": "Dumbbell Step Ups",
@@ -497,8 +497,8 @@
       "Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Dumbbell_Step_Ups/0.gif"],
-    "id": "Dumbbell_Step_Ups"
+    "images": ["/images/exercises/Dumbbell Step Ups/0.gif"],
+    "id": "Dumbbell Step Ups"
   },
   {
     "name": "Elliptical Trainer",
@@ -513,8 +513,8 @@
       "The handles can be used to monitor your heart rate to help you stay at an appropriate intensity."
     ],
     "category": "cardio",
-    "images": ["/images/exercises/Elliptical_Trainer/0.gif"],
-    "id": "Elliptical_Trainer"
+    "images": ["/images/exercises/Elliptical Trainer/0.gif"],
+    "id": "Elliptical Trainer"
   },
   {
     "name": "Front Barbell Squat",
@@ -533,8 +533,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Front_Barbell_Squat/0.gif"],
-    "id": "Front_Barbell_Squat"
+    "images": ["/images/exercises/Front Barbell Squat/0.gif"],
+    "id": "Front Barbell Squat"
   },
   {
     "name": "Goblet Squat",
@@ -550,8 +550,8 @@
       "At the bottom position, pause and use your elbows to push your knees out. Return to the starting position, and repeat for 10-20 repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Goblet_Squat/0.gif"],
-    "id": "Goblet_Squat"
+    "images": ["/images/exercises/Goblet Squat/0.gif"],
+    "id": "Goblet Squat"
   },
   {
     "name": "Hack Squat",
@@ -571,8 +571,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Hack_Squat/0.gif"],
-    "id": "Hack_Squat"
+    "images": ["/images/exercises/Hack Squat/0.gif"],
+    "id": "Hack Squat"
   },
   {
     "name": "Handstand Push-Ups",
@@ -590,8 +590,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Handstand_Push-Ups/0.gif"],
-    "id": "Handstand_Push-Ups"
+    "images": ["/images/exercises/Handstand Push-Ups/0.gif"],
+    "id": "Handstand Push-Ups"
   },
   {
     "name": "Hip Extension with Bands",
@@ -608,11 +608,11 @@
       "Return the leg to the starting position."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Hip_Extension_with_Bands/0.gif"],
-    "id": "Hip_Extension_with_Bands"
+    "images": ["/images/exercises/Hip Extension with Bands/0.gif"],
+    "id": "Hip Extension with Bands"
   },
   {
-    "name": "Incline Cable Flye",
+    "name": "Incline Cable Fly",
     "force": "push",
     "level": "intermediate",
     "mechanic": "isolation",
@@ -628,8 +628,8 @@
       "Repeat the movement for the prescribed amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Incline_Cable_Flye/0.gif"],
-    "id": "Incline_Cable_Flye"
+    "images": ["/images/exercises/Incline Cable Fly/0.gif"],
+    "id": "Incline Cable Fly"
   },
   {
     "name": "Lying Face Up Plate Neck Resistance",
@@ -646,8 +646,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Lying_Face_Up_Plate_Neck_Resistance/0.gif"],
-    "id": "Lying_Face_Up_Plate_Neck_Resistance"
+    "images": ["/images/exercises/Lying Face Up Plate Neck Resistance/0.gif"],
+    "id": "Lying Face Up Plate Neck Resistance"
   },
   {
     "name": "Mountain Climbers",
@@ -662,8 +662,8 @@
       "Explosively reverse the positions of your legs, extending the bent leg until the leg is straight and supported by the toe, and bringing the other foot up with the hip and knee flexed. Repeat in an alternating fashion for 20-30 seconds."
     ],
     "category": "plyometrics",
-    "images": ["/images/exercises/Mountain_Climbers/0.gif"],
-    "id": "Mountain_Climbers"
+    "images": ["/images/exercises/Mountain Climbers/0.gif"],
+    "id": "Mountain Climbers"
   },
   {
     "name": "Olympic Squat",
@@ -679,8 +679,8 @@
       "At the moment the upper legs contact the lower, reverse the motion, driving the weight upward."
     ],
     "category": "olympic weightlifting",
-    "images": ["/images/exercises/Olympic_Squat/0.gif"],
-    "id": "Olympic_Squat"
+    "images": ["/images/exercises/Olympic Squat/0.gif"],
+    "id": "Olympic Squat"
   },
   {
     "name": "One-Arm Side Deadlift",
@@ -706,8 +706,8 @@
       "Switch arms and repeat the movement."
     ],
     "category": "strength",
-    "images": ["/images/exercises/One-Arm_Side_Deadlift/0.gif"],
-    "id": "One-Arm_Side_Deadlift"
+    "images": ["/images/exercises/One-Arm Side Deadlift/0.gif"],
+    "id": "One-Arm Side Deadlift"
   },
   {
     "name": "Overhead Squat",
@@ -734,8 +734,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "olympic weightlifting",
-    "images": ["/images/exercises/Overhead_Squat/0.gif"],
-    "id": "Overhead_Squat"
+    "images": ["/images/exercises/Overhead Squat/0.gif"],
+    "id": "Overhead Squat"
   },
   {
     "name": "Palms-Up Dumbbell Wrist Curl Over A Bench",
@@ -756,9 +756,9 @@
     ],
     "category": "strength",
     "images": [
-      "/images/exercises/Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench/0.gif"
+      "/images/exercises/Palms-Up Dumbbell Wrist Curl Over A Bench/0.gif"
     ],
-    "id": "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench"
+    "id": "Palms-Up Dumbbell Wrist Curl Over A Bench"
   },
   {
     "name": "Parallel Bar Dip",
@@ -775,8 +775,8 @@
       "Repeat for the desired number of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Parallel_Bar_Dip/0.gif"],
-    "id": "Parallel_Bar_Dip"
+    "images": ["/images/exercises/Parallel Bar Dip/0.gif"],
+    "id": "Parallel Bar Dip"
   },
   {
     "name": "Pin Presses",
@@ -801,8 +801,8 @@
       "Return the bar to the pins, pausing before beginning the next repetition."
     ],
     "category": "powerlifting",
-    "images": ["/images/exercises/Pin_Presses/0.gif"],
-    "id": "Pin_Presses"
+    "images": ["/images/exercises/Pin Presses/0.gif"],
+    "id": "Pin Presses"
   },
   {
     "name": "Plank",
@@ -835,8 +835,8 @@
       "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Push-Ups_-_Close_Triceps_Position/0.gif"],
-    "id": "Push-Ups_-_Close_Triceps_Position"
+    "images": ["/images/exercises/Push-Ups - Close Triceps Position/0.gif"],
+    "id": "Push-Ups - Close Triceps Position"
   },
   {
     "name": "Reverse Grip Triceps Pushdown",
@@ -854,8 +854,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Reverse_Grip_Triceps_Pushdown/0.gif"],
-    "id": "Reverse_Grip_Triceps_Pushdown"
+    "images": ["/images/exercises/Reverse Grip Triceps Pushdown/0.gif"],
+    "id": "Reverse Grip Triceps Pushdown"
   },
   {
     "name": "Romanian Deadlift",
@@ -873,8 +873,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Romanian_Deadlift/0.gif"],
-    "id": "Romanian_Deadlift"
+    "images": ["/images/exercises/Romanian Deadlift/0.gif"],
+    "id": "Romanian Deadlift"
   },
   {
     "name": "Romanian Deadlift from Deficit",
@@ -890,8 +890,8 @@
       "Reverse the motion to return to the starting position."
     ],
     "category": "olympic weightlifting",
-    "images": ["/images/exercises/Romanian_Deadlift_from_Deficit/0.gif"],
-    "id": "Romanian_Deadlift_from_Deficit"
+    "images": ["/images/exercises/Romanian Deadlift from Deficit/0.gif"],
+    "id": "Romanian Deadlift from Deficit"
   },
   {
     "name": "Rowing, Stationary",
@@ -914,11 +914,11 @@
       "The recovery phase simply involves straightening your arms, bending the knees, and bringing your body forward again as you transition back into the first phase."
     ],
     "category": "cardio",
-    "images": ["/images/exercises/Rowing_Stationary/0.gif"],
-    "id": "Rowing_Stationary"
+    "images": ["/images/exercises/Rowing Stationary/0.gif"],
+    "id": "Rowing Stationary"
   },
   {
-    "name": "Running, Treadmill",
+    "name": "Running - Treadmill",
     "force": null,
     "level": "beginner",
     "mechanic": null,
@@ -930,8 +930,8 @@
       "Treadmills offer convenience, cardiovascular benefits, and usually have less impact than running outside. A 150 lb person will burn over 450 calories running 8 miles per hour for 30 minutes. Maintain proper posture as you run, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate."
     ],
     "category": "cardio",
-    "images": ["/images/exercises/Running_Treadmill/0.gif"],
-    "id": "Running_Treadmill"
+    "images": ["/images/exercises/Running - Treadmill/0.gif"],
+    "id": "Running - Treadmill"
   },
   {
     "name": "Seated Cable Rows",
@@ -949,8 +949,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Seated_Cable_Rows/0.gif"],
-    "id": "Seated_Cable_Rows"
+    "images": ["/images/exercises/Seated Cable Rows/0.gif"],
+    "id": "Seated Cable Rows"
   },
   {
     "name": "Smith Machine Calf Raise",
@@ -969,8 +969,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Smith_Machine_Calf_Raise/0.gif"],
-    "id": "Smith_Machine_Calf_Raise"
+    "images": ["/images/exercises/Smith Machine Calf Raise/0.gif"],
+    "id": "Smith Machine Calf Raise"
   },
   {
     "name": "Split Squat with Dumbbells",
@@ -987,8 +987,8 @@
       "At the bottom of the movement, drive through the heel to extend the knee and hip to return to the starting position."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Split_Squat_with_Dumbbells/0.gif"],
-    "id": "Split_Squat_with_Dumbbells"
+    "images": ["/images/exercises/Split Squat with Dumbbells/0.gif"],
+    "id": "Split Squat with Dumbbells"
   },
   {
     "name": "Standing Dumbbell Upright Row",
@@ -1005,8 +1005,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Standing_Dumbbell_Upright_Row/0.gif"],
-    "id": "Standing_Dumbbell_Upright_Row"
+    "images": ["/images/exercises/Standing Dumbbell Upright Row/0.gif"],
+    "id": "Standing Dumbbell Upright Row"
   },
   {
     "name": "Standing Military Press",
@@ -1025,8 +1025,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Standing_Military_Press/0.gif"],
-    "id": "Standing_Military_Press"
+    "images": ["/images/exercises/Standing Military Press/0.gif"],
+    "id": "Standing Military Press"
   },
   {
     "name": "Stiff-Legged Barbell Deadlift",
@@ -1044,8 +1044,8 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Stiff-Legged_Barbell_Deadlift/0.gif"],
-    "id": "Stiff-Legged_Barbell_Deadlift"
+    "images": ["/images/exercises/Stiff-Legged Barbell Deadlift/0.gif"],
+    "id": "Stiff-Legged Barbell Deadlift"
   },
   {
     "name": "Sumo Deadlift",
@@ -1070,8 +1070,8 @@
       "Return the weight to the ground by bending at the hips and controlling the weight on the way down."
     ],
     "category": "powerlifting",
-    "images": ["/images/exercises/Sumo_Deadlift/0.gif"],
-    "id": "Sumo_Deadlift"
+    "images": ["/images/exercises/Sumo Deadlift/0.gif"],
+    "id": "Sumo Deadlift"
   },
   {
     "name": "T-Bar Row with Handle",
@@ -1089,8 +1089,8 @@
       "After a brief pause, return to the starting position."
     ],
     "category": "strength",
-    "images": ["/images/exercises/T-Bar_Row_with_Handle/0.gif"],
-    "id": "T-Bar_Row_with_Handle"
+    "images": ["/images/exercises/T-Bar Row with Handle/0.gif"],
+    "id": "T-Bar Row with Handle"
   },
   {
     "name": "Upright Barbell Row",
@@ -1107,11 +1107,11 @@
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Upright_Barbell_Row/0.gif"],
-    "id": "Upright_Barbell_Row"
+    "images": ["/images/exercises/Upright Barbell Row/0.gif"],
+    "id": "Upright Barbell Row"
   },
   {
-    "name": "Walking, Treadmill",
+    "name": "Walking - Treadmill",
     "force": null,
     "level": "beginner",
     "mechanic": null,
@@ -1123,8 +1123,8 @@
       "Treadmills offer convenience, cardiovascular benefits, and usually have less impact than walking outside. When walking, you should move at a moderate to fast pace, not a leisurely one. Being an activity of lower intensity, walking doesn't burn as many calories as some other activities, but still provides great benefit. A 150 lb person will burn about 175 calories walking 4 miles per hour for 30 minutes, compared to 450 calories running twice as fast. Maintain proper posture as you walk, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate."
     ],
     "category": "cardio",
-    "images": ["/images/exercises/Walking_Treadmill/0.gif"],
-    "id": "Walking_Treadmill"
+    "images": ["/images/exercises/Walking - Treadmill/0.gif"],
+    "id": "Walking - Treadmill"
   },
   {
     "name": "Wide-Grip Lat Pulldown",
@@ -1143,8 +1143,8 @@
       "Repeat this motion for the prescribed amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Wide-Grip_Lat_Pulldown/0.gif"],
-    "id": "Wide-Grip_Lat_Pulldown"
+    "images": ["/images/exercises/Wide-Grip Lat Pulldown/0.gif"],
+    "id": "Wide-Grip Lat Pulldown"
   },
   {
     "name": "Wide-Grip Rear Pull-Up",
@@ -1162,7 +1162,7 @@
       "Repeat this motion for the prescribed amount of repetitions."
     ],
     "category": "strength",
-    "images": ["/images/exercises/Wide-Grip_Rear_Pull-Up/0.gif"],
-    "id": "Wide-Grip_Rear_Pull-Up"
+    "images": ["/images/exercises/Wide-Grip Rear Pull-Up/0.gif"],
+    "id": "Wide-Grip Rear Pull-Up"
   }
 ]

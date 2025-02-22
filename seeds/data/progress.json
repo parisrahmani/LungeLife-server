@@ -1,7 +1,7 @@
 [
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Shoulder_Press",
+    "exercise_id": "Dumbbell Shoulder Press",
     "date": "2024-01-05",
     "weight": 14,
     "reps": 8,
@@ -11,7 +11,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Bicep_Curl",
+    "exercise_id": "Dumbbell Bicep Curl",
     "date": "2024-01-05",
     "weight": 10,
     "reps": 12,
@@ -21,7 +21,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Bench_Dips",
+    "exercise_id": "Bench Dips",
     "date": "2024-01-05",
     "weight": null,
     "reps": 15,
@@ -31,7 +31,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Goblet_Squat",
+    "exercise_id": "Goblet Squat",
     "date": "2024-01-08",
     "weight": 16,
     "reps": 12,
@@ -41,7 +41,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Romanian_Deadlift",
+    "exercise_id": "Romanian Deadlift",
     "date": "2024-01-08",
     "weight": 40,
     "reps": 8,
@@ -51,7 +51,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Lunges",
+    "exercise_id": "Dumbbell Lunges",
     "date": "2024-01-08",
     "weight": 15,
     "reps": 10,
@@ -61,7 +61,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Bench_Press",
+    "exercise_id": "Dumbbell Bench Press",
     "date": "2024-01-10",
     "weight": 20,
     "reps": 10,
@@ -71,7 +71,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Bicep_Curl",
+    "exercise_id": "Dumbbell Bicep Curl",
     "date": "2024-01-10",
     "weight": 11,
     "reps": 12,
@@ -81,7 +81,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dead_Bug",
+    "exercise_id": "Dead Bug",
     "date": "2024-01-10",
     "weight": null,
     "reps": 20,
@@ -91,7 +91,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Smith_Machine_Calf_Raise",
+    "exercise_id": "Smith Machine Calf Raise",
     "date": "2024-01-12",
     "weight": 30,
     "reps": 12,
@@ -111,7 +111,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Wide-Grip_Lat_Pulldown",
+    "exercise_id": "Wide-Grip Lat Pulldown",
     "date": "2024-01-12",
     "weight": 45,
     "reps": 8,
@@ -121,7 +121,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Romanian_Deadlift",
+    "exercise_id": "Romanian Deadlift",
     "date": "2024-01-15",
     "weight": 45,
     "reps": 8,
@@ -131,7 +131,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Shoulder_Press",
+    "exercise_id": "Dumbbell Shoulder Press",
     "date": "2024-01-15",
     "weight": 16,
     "reps": 8,
@@ -141,7 +141,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Goblet_Squat",
+    "exercise_id": "Goblet Squat",
     "date": "2024-01-15",
     "weight": 18,
     "reps": 12,
@@ -151,7 +151,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Box_Jump_Multiple_Response",
+    "exercise_id": "Box Jump (Multiple Response)",
     "date": "2024-01-15",
     "weight": null,
     "reps": 12,
@@ -161,7 +161,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Lunges",
+    "exercise_id": "Dumbbell Lunges",
     "date": "2024-01-18",
     "weight": 16,
     "reps": 10,
@@ -171,7 +171,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Step_Ups",
+    "exercise_id": "Dumbbell Step Ups",
     "date": "2024-01-18",
     "weight": 20,
     "reps": 10,
@@ -181,7 +181,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Wide-Grip_Rear_Pull-Up",
+    "exercise_id": "Wide-Grip Rear Pull-Up",
     "date": "2024-01-18",
     "weight": null,
     "reps": 8,
@@ -191,7 +191,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Romanian_Deadlift",
+    "exercise_id": "Romanian Deadlift",
     "date": "2024-01-19",
     "weight": 50,
     "reps": 8,
@@ -201,7 +201,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Shoulder_Press",
+    "exercise_id": "Dumbbell Shoulder Press",
     "date": "2024-01-19",
     "weight": 17,
     "reps": 8,
@@ -211,7 +211,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Goblet_Squat",
+    "exercise_id": "Goblet Squat",
     "date": "2024-01-19",
     "weight": 19,
     "reps": 12,
@@ -222,7 +222,7 @@
 
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Shoulder_Press",
+    "exercise_id": "Dumbbell Shoulder Press",
     "date": "2024-02-12",
     "weight": 16,
     "reps": 12,
@@ -232,7 +232,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Step_Ups",
+    "exercise_id": "Dumbbell Step Ups",
     "date": "2024-02-12",
     "weight": 22,
     "reps": 12,
@@ -242,7 +242,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Incline_Cable_Flye",
+    "exercise_id": "Incline Cable Fly",
     "date": "2024-02-12",
     "weight": 18,
     "reps": 12,
@@ -252,7 +252,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Romanian_Deadlift",
+    "exercise_id": "Romanian Deadlift",
     "date": "2024-02-14",
     "weight": 60,
     "reps": 10,
@@ -262,7 +262,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Lunges",
+    "exercise_id": "Dumbbell Lunges",
     "date": "2024-02-14",
     "weight": 20,
     "reps": 12,
@@ -272,7 +272,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Wide-Grip_Rear_Pull-Up",
+    "exercise_id": "Wide-Grip Rear Pull-Up",
     "date": "2024-02-14",
     "weight": null,
     "reps": 10,
@@ -282,7 +282,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Smith_Machine_Calf_Raise",
+    "exercise_id": "Smith Machine Calf Raise",
     "date": "2024-02-16",
     "weight": 45,
     "reps": 15,
@@ -302,7 +302,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Wide-Grip_Lat_Pulldown",
+    "exercise_id": "Wide-Grip Lat Pulldown",
     "date": "2024-02-16",
     "weight": 30,
     "reps": 10,
@@ -312,7 +312,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Goblet_Squat",
+    "exercise_id": "Goblet Squat",
     "date": "2024-02-18",
     "weight": 24,
     "reps": 12,
@@ -322,7 +322,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Bicep_Curl",
+    "exercise_id": "Dumbbell Bicep Curl",
     "date": "2024-02-18",
     "weight": 14,
     "reps": 12,
@@ -332,7 +332,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dead_Bug",
+    "exercise_id": "Dead Bug",
     "date": "2024-02-18",
     "weight": null,
     "reps": 15,
@@ -343,7 +343,7 @@
 
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Shoulder_Press",
+    "exercise_id": "Dumbbell Shoulder Press",
     "date": "2024-02-20",
     "weight": 18,
     "reps": 12,
@@ -353,7 +353,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Step_Ups",
+    "exercise_id": "Dumbbell Step Ups",
     "date": "2024-02-20",
     "weight": 24,
     "reps": 12,
@@ -363,7 +363,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Incline_Cable_Flye",
+    "exercise_id": "Incline Cable Fly",
     "date": "2024-02-20",
     "weight": 20,
     "reps": 12,
@@ -373,7 +373,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Romanian_Deadlift",
+    "exercise_id": "Romanian Deadlift",
     "date": "2024-02-22",
     "weight": 65,
     "reps": 10,
@@ -383,7 +383,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Lunges",
+    "exercise_id": "Dumbbell Lunges",
     "date": "2024-02-22",
     "weight": 22,
     "reps": 12,
@@ -393,7 +393,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Wide-Grip_Rear_Pull-Up",
+    "exercise_id": "Wide-Grip Rear Pull-Up",
     "date": "2024-02-22",
     "weight": null,
     "reps": 11,
@@ -403,7 +403,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Smith_Machine_Calf_Raise",
+    "exercise_id": "Smith Machine Calf Raise",
     "date": "2024-02-24",
     "weight": 50,
     "reps": 15,
@@ -423,7 +423,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Wide-Grip_Lat_Pulldown",
+    "exercise_id": "Wide-Grip Lat Pulldown",
     "date": "2024-02-24",
     "weight": 35,
     "reps": 10,
@@ -433,7 +433,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Goblet_Squat",
+    "exercise_id": "Goblet Squat",
     "date": "2024-02-26",
     "weight": 26,
     "reps": 12,
@@ -443,7 +443,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Bicep_Curl",
+    "exercise_id": "Dumbbell Bicep Curl",
     "date": "2024-02-26",
     "weight": 16,
     "reps": 12,
@@ -453,7 +453,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dead_Bug",
+    "exercise_id": "Dead Bug",
     "date": "2024-02-26",
     "weight": null,
     "reps": 16,
@@ -464,7 +464,7 @@
 
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Shoulder_Press",
+    "exercise_id": "Dumbbell Shoulder Press",
     "date": "2024-02-28",
     "weight": 20,
     "reps": 12,
@@ -474,7 +474,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Step_Ups",
+    "exercise_id": "Dumbbell Step Ups",
     "date": "2024-02-28",
     "weight": 26,
     "reps": 12,
@@ -484,7 +484,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Incline_Cable_Flye",
+    "exercise_id": "Incline Cable Fly",
     "date": "2024-02-28",
     "weight": 22,
     "reps": 12,
@@ -494,7 +494,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Romanian_Deadlift",
+    "exercise_id": "Romanian Deadlift",
     "date": "2024-03-01",
     "weight": 70,
     "reps": 10,
@@ -504,7 +504,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Lunges",
+    "exercise_id": "Dumbbell Lunges",
     "date": "2024-03-01",
     "weight": 24,
     "reps": 12,
@@ -514,7 +514,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Wide-Grip_Rear_Pull-Up",
+    "exercise_id": "Wide-Grip Rear Pull-Up",
     "date": "2024-03-01",
     "weight": null,
     "reps": 12,
@@ -524,7 +524,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Smith_Machine_Calf_Raise",
+    "exercise_id": "Smith Machine Calf Raise",
     "date": "2024-03-03",
     "weight": 55,
     "reps": 15,
@@ -544,7 +544,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Wide-Grip_Lat_Pulldown",
+    "exercise_id": "Wide-Grip Lat Pulldown",
     "date": "2024-03-03",
     "weight": 37,
     "reps": 10,
@@ -554,7 +554,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Goblet_Squat",
+    "exercise_id": "Goblet Squat",
     "date": "2024-03-05",
     "weight": 28,
     "reps": 12,
@@ -564,7 +564,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dumbbell_Bicep_Curl",
+    "exercise_id": "Dumbbell Bicep Curl",
     "date": "2024-03-05",
     "weight": 18,
     "reps": 12,
@@ -574,7 +574,7 @@
   },
   {
     "user_id": "user-01",
-    "exercise_id": "Dead_Bug",
+    "exercise_id": "Dead Bug",
     "date": "2024-03-05",
     "weight": null,
     "reps": 16,

@@ -4,12 +4,12 @@
     "user_id": "user-01",
     "template_name": "Full Body Strength",
     "exercises": [
-      "Arnold_Dumbbell_Press",
-      "Barbell_Shoulder_Press",
-      "Bent_Over_Barbell_Row",
-      "Dead_Bug",
-      "Push-Ups_-_Close_Triceps_Position",
-      "Romanian_Deadlift"
+      "Arnold Dumbbell Press",
+      "Barbell Shoulder Press",
+      "Bent Over Barbell Row",
+      "Dead Bug",
+      "Push-Ups - Close Triceps Position",
+      "Romanian Deadlift"
     ],
     "notes": "Focus on proper form"
   },
@@ -18,12 +18,12 @@
     "user_id": "user-01",
     "template_name": "Cardio & Core",
     "exercises": [
-      "Elliptical_Trainer",
-      "Mountain_Climbers",
-      "Running_Treadmill",
-      "Cable_Crunch",
+      "Elliptical Trainer",
+      "Mountain Climbers",
+      "Running - Treadmill",
+      "Cable Crunch",
       "Plank",
-      "Box_Jump_Multiple_Response"
+      "Box Jump (Multiple Response)"
     ],
     "notes": "Increase intensity gradually"
   },
@@ -32,12 +32,12 @@
     "user_id": "user-01",
     "template_name": "Leg Day",
     "exercises": [
-      "Front_Barbell_Squat",
-      "Goblet_Squat",
-      "Hack_Squat",
-      "Dumbbell_Lunges",
-      "Sumo_Deadlift",
-      "Stiff-Legged_Barbell_Deadlift"
+      "Front Barbell Squat",
+      "Goblet Squat",
+      "Hack Squat",
+      "Dumbbell Lunges",
+      "Sumo Deadlift",
+      "Stiff-Legged Barbell Deadlift"
     ],
     "notes": "Focus on depth in squats"
   },
@@ -46,12 +46,12 @@
     "user_id": "user-01",
     "template_name": "Upper Body Strength",
     "exercises": [
-      "Dumbbell_Bench_Press",
-      "Bench_Dips",
-      "Bent_Over_Two-Dumbbell_Row",
-      "Wide-Grip_Lat_Pulldown",
-      "Standing_Military_Press",
-      "Reverse_Grip_Triceps_Pushdown"
+      "Dumbbell Bench Press",
+      "Bench Dips",
+      "Bent Over Two-Dumbbell Row",
+      "Wide-Grip Lat Pulldown",
+      "Standing Military Press",
+      "Reverse Grip Triceps Pushdown"
     ],
     "notes": "Increase weight for bench press"
   },
@@ -60,12 +60,12 @@
     "user_id": "user-01",
     "template_name": "Mobility & Recovery",
     "exercises": [
-      "Hip_Extension_with_Bands",
-      "Butt_Lift_Bridge",
-      "Lying_Face_Up_Plate_Neck_Resistance",
-      "Walking_Treadmill",
-      "One-Arm_Side_Deadlift",
-      "Split_Squat_with_Dumbbells"
+      "Hip Extension with Bands",
+      "Bridge",
+      "Lying Face Up Plate Neck Resistance",
+      "Walking - Treadmill",
+      "One-Arm Side Deadlift",
+      "Split Squat with Dumbbells"
     ],
     "notes": "Hold each stretch for at least 30 seconds"
   }
