@@ -4,6 +4,8 @@ import configuration from "../knexfile.js";
 const knex = initKnex(configuration);
 
 export async function addProgress(req, res) {
+  console.log("Request received:", req.body);
+
   try {
     const { user_id, exercise_id, date, exerciseRecords } = req.body;
 
@@ -15,12 +17,13 @@ export async function addProgress(req, res) {
       id: knex.raw("UUID()"),
       user_id,
       exercise_id,
-      date,
-      weight: exercise.weight,
-      reps: exercise.reps,
-      duration: exercise.duration,
-      prs: exercise.prs,
+      date: new Date(date).toISOString().split("T")[0],
+      weight: exercise.weight ? parseFloat(exercise.weight) : null,
+      reps: exercise.reps ? parseInt(exercise.reps, 10) : 10,
+      duration: exercise.duration ? parseFloat(exercise.duration) : null,
+      prs: exercise.prs || null,
     }));
+    console.log("Formatted Records:", formattedRecords);
     await knex("progress").insert(formattedRecords);
 
     res.status(201).json({ message: "Exercise records added successfully" });
