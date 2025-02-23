@@ -42,6 +42,65 @@ export const getProgressByUser = async (req, res) => {
   }
 };
 
+export const getProgressDataChart = async (req, res) => {
+  const { exercise_id } = req.params;
+
+  console.log("Received exercise_id:", exercise_id); // Log received param
+
+  try {
+    const progressData = await knex("progress")
+      .select("date")
+      .select(
+        knex.raw("SUM(weight * reps) / (COUNT(*) * 10) AS Normalized_Weight")
+      )
+      .select(knex.raw("SUM(duration * reps) / (COUNT(*)) AS Normalized_Time"))
+      .whereRaw("LOWER(exercise_id) = LOWER(?)", [exercise_id.trim()])
+      .groupBy("date");
+
+    console.log("Query Result:", progressData); // Log the result
+    res.json(progressData);
+  } catch (error) {
+    console.error("Error fetching progress:", error);
+    res.status(500).json({ error: "Internal Server Error" });
+  }
+};
+
+export const getLastFiveRecord = async (req, res) => {
+  const { exercise_id } = req.params;
+
+  console.log("Received exercise_id:", exercise_id); // Log received param
+
+  try {
+    const LastFiveRecord = await knex("progress")
+      .select("date", "weight", "reps", "duration")
+      .whereRaw("LOWER(exercise_id) = LOWER(?)", [exercise_id.trim()])
+      .limit(5);
+
+    console.log("Query Result:", LastFiveRecord); // Log the result
+    res.json(LastFiveRecord);
+  } catch (error) {
+    console.error("Error fetching progress:", error);
+    res.status(500).json({ error: "Internal Server Error" });
+  }
+};
+
+// try {
+//   const progressData = await knex("progress")
+//     .select("exercise_id", "date")
+//     .sum("weight as total_weight")
+//     .sum("reps as total_reps")
+//     .sum("duration as total_duration")
+//     .count("* as sets")
+//     .groupBy("exercise_id", "date")
+//     .orderBy("date", "asc");
+
+//   res.json(progressData);
+// } catch (error) {
+//   console.error("Error fetching progress data:", error);
+//   res.status(500).json({ error: "Internal Server Error" });
+// }
+//};
+
 // export async function addProgress(req, res) {
 //   try {
 //     //const { user_id, exercise_id, date, eachExerciseRecords } = req.body;
