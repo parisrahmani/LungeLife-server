@@ -3,12 +3,20 @@ import {
   getWorkoutTemplates,
   addWorkoutTemplate,
   getWorkoutExercises,
+  deleteTemplate,
+  updateTemplate,
 } from "../controllers/workoutController.js";
 
 const router = express.Router();
 
 router.get("/", getWorkoutTemplates);
-router.get("/:id", getWorkoutExercises);
+
+router
+  .route("/:id")
+  .get(getWorkoutExercises)
+  .put(updateTemplate)
+  .delete(deleteTemplate);
+
 router.post("/add", addWorkoutTemplate);
 
 export default router;
