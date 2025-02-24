@@ -67,6 +67,7 @@ export const getLastFiveRecord = async (req, res) => {
     const LastFiveRecord = await knex("progress")
       .select("date", "weight", "reps", "duration")
       .whereRaw("LOWER(exercise_id) = LOWER(?)", [exercise_id.trim()])
+      .orderBy("date", "desc")
       .limit(5);
 
     res.json(LastFiveRecord);
