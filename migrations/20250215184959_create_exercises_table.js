@@ -25,7 +25,7 @@ export function up(knex) {
         "olympic weightlifting",
       ])
       .nullable();
-    //table.string("category").nullable();
+
     table.json("images").nullable();
   });
 }

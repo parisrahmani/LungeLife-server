@@ -9,7 +9,7 @@ export function up(knex) {
     table.string("name").notNullable();
     table.string("email").unique().notNullable();
     table.string("password").notNullable();
-    table.json("preferences").nullable(); // Store user preferences as JSON
+    table.json("preferences").nullable();
   });
 }
 

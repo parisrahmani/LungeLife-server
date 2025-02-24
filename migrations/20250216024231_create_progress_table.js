@@ -13,7 +13,7 @@ export function up(knex) {
     table.integer("reps").notNullable();
     table.integer("sets").notNullable();
     table.float("duration").nullable();
-    table.string("prs").nullable(); // Personal Records
+    table.string("prs").nullable();
 
     // Foreign keys
     table
