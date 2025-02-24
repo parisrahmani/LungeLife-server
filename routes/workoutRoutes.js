@@ -14,12 +14,7 @@ router.get("/", getWorkoutTemplates);
 
 router.route("/each/:id").get(getWorkoutTemplatesById).put(updateNote);
 
-router
-  .route("/:id")
-  //.get(getWorkoutTemplatesById)
-  .get(getWorkoutExercises)
-  //.put(updateNote)
-  .delete(deleteTemplate);
+router.route("/:id").get(getWorkoutExercises).delete(deleteTemplate);
 
 router.post("/add", addWorkoutTemplate);
 

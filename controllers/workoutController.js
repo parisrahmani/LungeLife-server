@@ -50,14 +50,13 @@ export async function addWorkoutTemplate(req, res) {
 export async function getWorkoutExercises(req, res) {
   try {
     const { id } = req.params;
-    console.log("Received ID:", id);
 
     if (!id) {
       return res.status(400).json({ message: "Template ID is required" });
     }
 
     const template = await knex("workout_templates").where({ id: id }).first();
-    console.log(template.exercises);
+
     const exercises = await knex("exercises").whereIn("id", template.exercises);
 
     res.json(exercises);
@@ -90,9 +89,6 @@ export async function updateNote(req, res) {
   const { id } = req.params;
   const { notes } = req.body;
 
-  console.log("Updating template with ID:", id); // Log the ID
-  console.log("New notes:", notes); // Log the new notes value
-
   try {
     const updatedNotes = await knex("workout_templates")
       .where({ id })
@@ -106,45 +102,7 @@ export async function updateNote(req, res) {
 
     res.json(updatedRow);
   } catch (error) {
-    console.error("Error updating notes:", error); // Log the error
+    console.error("Error updating notes:", error);
     res.status(500).json({ error: "Internal server error" });
   }
 }
-
-// export async function updateTemplate(req, res) {
-//   const { id } = req.params;
-//   const { user_id, template_name, exercises, notes, date } = req.body;
-
-//   try {
-//     if (!user_id || !template_name || !exercises || !date) {
-//       return res.status(400).json({ error: "All fields are required" });
-//     }
-
-//     const existingTemplate = await knex("workout_templates")
-//       .where({ id })
-//       .first();
-//     if (!existingTemplate) {
-//       return res
-//         .status(404)
-//         .json(`Could not find a template with id:${req.params.id} to update`);
-//     }
-
-//     await knex("workout_templates")
-//       .where({ id })
-//       .update({
-//         user_id,
-//         template_name,
-//         exercises: JSON.stringify(exercises),
-//         notes,
-//         date,
-//       });
-
-//     const updatedTemplate = await knex("workout_templates")
-//       .where({ id })
-//       .first();
-//     res.status(200).json(updatedTemplate);
-//   } catch (err) {
-//     console.log(`Error updating template with id: ${id}`);
-//     res.status(500).send(`Error updating template with id: ${id}`);
-//   }
-// }

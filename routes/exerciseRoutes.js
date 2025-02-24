@@ -6,10 +6,8 @@ import {
 
 const router = express.Router();
 
-// Get all exercises
 router.get("/", getExercises);
 
-// Get a single exercise by ID
 router.get("/:id", getExerciseById);
 
 export default router;

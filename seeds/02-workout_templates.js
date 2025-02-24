@@ -10,8 +10,6 @@ export async function seed(knex) {
     fs.readFileSync("seeds/data/workout_templates.json", "utf8")
   );
 
-  console.log("Seeding workout templates:", data);
-
   data.forEach((template) => {
     template.exercises = JSON.stringify(template.exercises);
   });
