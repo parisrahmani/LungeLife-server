@@ -4,17 +4,21 @@ import {
   addWorkoutTemplate,
   getWorkoutExercises,
   deleteTemplate,
-  updateTemplate,
+  updateNote,
+  getWorkoutTemplatesById,
 } from "../controllers/workoutController.js";
 
 const router = express.Router();
 
 router.get("/", getWorkoutTemplates);
 
+router.route("/each/:id").get(getWorkoutTemplatesById).put(updateNote);
+
 router
   .route("/:id")
+  //.get(getWorkoutTemplatesById)
   .get(getWorkoutExercises)
-  .put(updateTemplate)
+  //.put(updateNote)
   .delete(deleteTemplate);
 
 router.post("/add", addWorkoutTemplate);
